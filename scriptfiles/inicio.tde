@@ -1,0 +1,43 @@
+	Textdraw9 = TextDrawCreate(919.500000, -1.416664, "usebox");
+	TextDrawLetterSize(Textdraw9, 0.000000, 11.868518);
+	TextDrawTextSize(Textdraw9, -5.125000, 0.000000);
+	TextDrawAlignment(Textdraw9, 1);
+	TextDrawColor(Textdraw9, 0);
+	TextDrawUseBox(Textdraw9, true);
+	TextDrawBoxColor(Textdraw9, 255);
+	TextDrawSetShadow(Textdraw9, 0);
+	TextDrawSetOutline(Textdraw9, 0);
+	TextDrawBackgroundColor(Textdraw9, 0x000000FF);
+	TextDrawFont(Textdraw9, 0);
+
+	Textdraw10 = TextDrawCreate(135.375000, 31.499998, "GHOSTZONE ROLEPLAY");
+	TextDrawLetterSize(Textdraw10, 0.981874, 2.340833);
+	TextDrawAlignment(Textdraw10, 1);
+	TextDrawColor(Textdraw10, -1);
+	TextDrawSetShadow(Textdraw10, 0);
+	TextDrawSetOutline(Textdraw10, 1);
+	TextDrawBackgroundColor(Textdraw10, 255);
+	TextDrawFont(Textdraw10, 3);
+	TextDrawSetProportional(Textdraw10, 1);
+
+	Textdraw12 = TextDrawCreate(797.625000, 323.500000, "usebox");
+	TextDrawLetterSize(Textdraw12, 0.000000, 16.431020);
+	TextDrawTextSize(Textdraw12, -8.250000, 0.000000);
+	TextDrawAlignment(Textdraw12, 1);
+	TextDrawColor(Textdraw12, 0);
+	TextDrawUseBox(Textdraw12, true);
+	TextDrawBoxColor(Textdraw12, 255);
+	TextDrawSetShadow(Textdraw12, 0);
+	TextDrawSetOutline(Textdraw12, 0);
+	TextDrawBackgroundColor(Textdraw12, 0x000000FF);
+	TextDrawFont(Textdraw12, 0);
+
+	Textdraw13 = TextDrawCreate(190.000000, 345.916625, "WEB: WWW.GHOSTZONE-RP.TK");
+	TextDrawLetterSize(Textdraw13, 0.449999, 1.600000);
+	TextDrawAlignment(Textdraw13, 1);
+	TextDrawColor(Textdraw13, 0x3399FFFF);
+	TextDrawSetShadow(Textdraw13, 0);
+	TextDrawSetOutline(Textdraw13, 1);
+	TextDrawBackgroundColor(Textdraw13, 51);
+	TextDrawFont(Textdraw13, 1);
+	TextDrawSetProportional(Textdraw13, 1);

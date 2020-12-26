@@ -1,0 +1,170 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:33:40] 
+[22:33:40] Server Plugins
+[22:33:40] --------------
+[22:33:40]  Loading plugin: mysql
+[22:33:40]  >> plugin.mysql: R34 successfully loaded.
+[22:33:40]   Loaded.
+[22:33:40]  Loading plugin: sscanf
+[22:33:40] 
+
+[22:33:40]  ===============================
+
+[22:33:40]       sscanf plugin loaded.     
+
+[22:33:40]          Version:  2.8.1        
+
+[22:33:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:33:40]  ===============================
+
+[22:33:40]   Loaded.
+[22:33:40]  Loading plugin: crashdetect
+[22:33:40]   CrashDetect v4.15.1 is OK.
+[22:33:40]   Loaded.
+[22:33:40]  Loading plugin: streamer
+[22:33:40] 
+
+*** Streamer Plugin v2.7.8 by Incognito loaded ***
+
+[22:33:40]   Loaded.
+[22:33:40]  Loading plugin: nativechecker
+[22:33:40]   Loaded.
+[22:33:40]  Loaded 5 plugins.
+
+[22:33:40] 
+[22:33:40] Filterscripts
+[22:33:40] ---------------
+[22:33:40]   Loading filterscript 'TextDrawEditor1.0.amx'...
+[22:33:40] 
+--------------------------------------
+[22:33:40]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[22:33:40] --------------------------------------
+
+[22:33:40]   Loaded 1 filterscripts.
+
+[22:33:40]  
+[22:33:40]  
+[22:33:40]  
+[22:33:40]  ======================================= 
+[22:33:40]  |                                     | 
+[22:33:40]  |        YSI version 3.09.0684        | 
+[22:33:40]  |        By Alex "Y_Less" Cole        | 
+[22:33:40]  |                                     | 
+[22:33:40]  ======================================= 
+[22:33:40]  
+[22:33:40]  
+[22:33:40]  
+[22:33:40] |=========================Database=========================
+
+[22:33:40] MYSQL: Conectando a servidor...
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:36:02] 
+[22:36:02] Server Plugins
+[22:36:02] --------------
+[22:36:02]  Loading plugin: mysql
+[22:36:02]  >> plugin.mysql: R34 successfully loaded.
+[22:36:02]   Loaded.
+[22:36:02]  Loading plugin: sscanf
+[22:36:02] 
+
+[22:36:02]  ===============================
+
+[22:36:02]       sscanf plugin loaded.     
+
+[22:36:02]          Version:  2.8.1        
+
+[22:36:02]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:36:02]  ===============================
+
+[22:36:02]   Loaded.
+[22:36:02]  Loading plugin: crashdetect
+[22:36:02]   CrashDetect v4.15.1 is OK.
+[22:36:02]   Loaded.
+[22:36:02]  Loading plugin: streamer
+[22:36:02] 
+
+*** Streamer Plugin v2.7.8 by Incognito loaded ***
+
+[22:36:02]   Loaded.
+[22:36:02]  Loading plugin: nativechecker
+[22:36:02]   Loaded.
+[22:36:02]  Loaded 5 plugins.
+
+[22:36:02] 
+[22:36:02] Filterscripts
+[22:36:02] ---------------
+[22:36:02]   Loading filterscript 'TextDrawEditor1.0.amx'...
+[22:36:02] 
+--------------------------------------
+[22:36:02]  Text Draw Editor 1.0RC2 by Zamaroht for SA-MP 0.3 Loaded.
+[22:36:02] --------------------------------------
+
+[22:36:02]   Loaded 1 filterscripts.
+
+[22:36:02]  
+[22:36:02]  
+[22:36:02]  
+[22:36:02]  ======================================= 
+[22:36:02]  |                                     | 
+[22:36:02]  |        YSI version 3.09.0684        | 
+[22:36:02]  |        By Alex "Y_Less" Cole        | 
+[22:36:02]  |                                     | 
+[22:36:02]  ======================================= 
+[22:36:02]  
+[22:36:02]  
+[22:36:02]  
+[22:36:02] |=========================Database=========================
+
+[22:36:02] MYSQL: Conectando a servidor...
+
+[22:36:02] MYSQL: Conexión realizada.
+
+[22:36:02] |==========================================================
+
+[22:36:03] Basuras totales: 21 (MAX: 50)
+[22:36:03] Señales totales: 0 (MAX: 600)
+[22:37:17] Casas Totales: 338 (MAX: 900)
+[22:37:17] Almacenes Totales: 1 (MAX: 30)
+[22:37:17] Talleres Totales: 0 (MAX: 5)
+[22:37:17] Varios cargados
+[22:37:17] Delitos Totales: 2 (MAX: 9999)
+[22:37:18] Facciones Totales: 6 (MAX: 20)
+[22:37:19] Garajes Totales: 0 (MAX: 800)
+[22:37:19] Negocios cargados: 0 (MAX: 400)
+[22:37:19] Menus cargados: 0 (MAX: 150)
+[22:37:19] Watts City por Goncho28 totalmente desde 0
+[22:37:19] Number of vehicle models: 0
+[22:38:42] [connection] 127.0.0.1:56852 requests connection cookie.
+[22:38:43] [connection] incoming connection: 127.0.0.1:56852 id: 0
+[22:38:43] [join] Steven_Dominguez has joined the server (0:127.0.0.1)
+[22:38:48] [class] Steven_Dominguez (id: 0) has entered class selection screen
+[22:38:56] LOGUEA: 1642.190795, -2334.350341, 13.546899, 358.048889, 0, 0
+[22:38:56] [spawn] Steven_Dominguez (id: 0) has spawned
+[22:39:07] [pause] Steven_Dominguez (id: 0) has paused
+[22:39:16] [resume] Steven_Dominguez (id: 0) has returned from pausing
+[22:40:08] [pause] Steven_Dominguez (id: 0) has paused
+[22:40:13] [resume] Steven_Dominguez (id: 0) has returned from pausing
+[22:42:32] [pause] Steven_Dominguez (id: 0) has paused
+[22:43:23] [resume] Steven_Dominguez (id: 0) has returned from pausing
+[22:44:56] [pause] Steven_Dominguez (id: 0) has paused
+[22:45:03] [resume] Steven_Dominguez (id: 0) has returned from pausing
+[22:47:48] [part] Steven_Dominguez has left the server (0:1)

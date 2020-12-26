@@ -1,0 +1,51 @@
+- id
+- Nombre
+- Pass
+- Posiciones
+Pos_X, Pos_Y, Pos_Z, Pos_A, Int, Vw
+- Datos
+Edad, Sexo, Nivel, Respeto, PayDay
+- Admin
+- Dinero
+Mano, Banco
+- Casas
+Casa, CasaPrestata, CasaAlq
+- Negocio
+- Coches
+Coches, Coches, Coches, Prestado, Prestado, Prestado
+- Faccion
+Lider, Miembro, Rango
+- Carcel
+Jail, tiempo
+- Medicos
+Herido, Enfermedad, Receta
+- Necesidades
+Hambre, Cansancion, Alcohol
+- Baneado
+- TBan
+- Skin
+- Vida
+- Chaleco
+- Documentacion
+Dni, TiempoDNI
+- PlacaPolicia
+- Trabajo
+Trabajo, TiempoTrabajo, UltimoTrabajo
+- Servicio
+Servicio, Uniforme
+- Jugando
+- Licencias
+- DocFalsa
+NombreFalso, DNIFalso
+- LicenciasFalsas
+- Lenguajes
+Biblio, Idiomas, EIdiomas
+- Premium
+NivelPremium, TiempoPremium
+- Advertencias
+- PuntosDeRol
+- Habilidad
+
+- Almacen
+- Taller
+

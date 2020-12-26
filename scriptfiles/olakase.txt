@@ -1,0 +1,7 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// On top of script:
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.
